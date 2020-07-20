@@ -1,1 +1,1 @@
-documentation/README.md
+# DeepMedic-Package
